@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>TechCursos</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+
+<body>
+<!-- TÍTULO DO SITE -->
+<div class ="titulo">
+<header>
+<center>
+<h1 class="vap">Cursos </h1>
+</center>
+
+</header>
+</div>
+<br>
+<!-- codigo da imagem do site -->
+<center>
+<img src="monstera.jpg" >
+</center>
+
+<p class="conteudo"><b>Cursos para deixar seu Curriculum ainda melhor</b></p>
+
+<div class="secao">
+<section>
+<ul>
+
+</li><li><h2>Cursos</h2></li>
+
+<li>Javascript</li>
+<li>Django</li>
+<li>C#</li>
+<li>Ux design</li>
+<li>Unity : games 3d</li>
+</ul>
+
+</section>
+</div>
+
+<!-- Artigos -->
+<div class="artigo">
+<article>
+<h2>Preço dos cursos: confira!</h2>
+<p>
+<b>Javascript</b>:5x de $36.00 com 40% de desconto.<br>
+<b>Django</b>:12x de $45.00 com 10% de desconto.<br>
+<b>C#</b>: 8x de $25.90 com 20% de desconto.
+<b>Ux design:</b> 20x de $20.90 com 15% de desconto.<br>
+<b>Unity:</b> 14x de $55.90 com 10% de desconto.
+</p>
+
+<h2>Menu de navegação </h2>
+
+</article>
+</div>
+<aside>
+
+</aside>
+<!-- RODAPÉ DO SITE -->
+
+<div class="rodape">
+<frooter>
+
+<center>
+
+<pre>
+<p>TechCursos</p>
+<p class="pr">e-mail: dnikole05@gmail.com
+contato:987256715
+</p>
+<h5 class="titulo_rodape">Curuçá - PA</h5>
+</pre>
+</center>
+</frooter>
+
+</div>
+
+</body>
+</html>
+
+//programa Css
+
+body{
+
+background:navy;
+color:White;
+
+}
+
+.titulo
+{
+border-radius:20px;
+
+background-color:lawngreen;
+
+height:35px;
+}
+
+.vap{
+
+color:black;
+}
+
+imagem{
+
+margin:45px;
+border-radius:10px;
+
+.
+}
+.conteudo{
+
+margin:10px;
+}
+
+.secao{
+
+border-radius:30px;
+width:200px;
+height:160px;
+
+}
+
+ul li{
+
+margin:px;
+color:White;
+}
+
+.artigo{
+
+margin:20px;
+}
+
+/*comandos da página 02 */
+
+.titulo02{
+
+border-radius:20px;
+
+background-color:lawngreen;
+
+height:35px;
+
+}
+
+.H{
+
+color:black;
+margin:20px;
+}
+
+/* div do rodapé*/
+.rodape{
+
+background:White;
+height:250px;
+border-radius:10px;
+color:black;
+
+}
+.titulo_rodape{
+
+color:black;
+margin:40px;
+
+}
+
+.pr{
+
+margin:20px;
+}
